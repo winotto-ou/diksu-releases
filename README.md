@@ -5,7 +5,7 @@
 This repository holds only Diksu's releases: the Windows installers and the word list that installed copies update themselves from. The source code is not public.
 
 - Download and buy: **https://diksu.ee**
-- Newest installer: [Releases](https://github.com/tehumehu/est-dictate-releases/releases/latest)
+- Newest installer: [Releases](https://github.com/tehumehu/diksu-releases/releases/latest)
 
 ---
 
